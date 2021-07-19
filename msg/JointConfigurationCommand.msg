@@ -1,0 +1,3 @@
+JointConfiguration configuration
+float64 speed
+float64 acceleration

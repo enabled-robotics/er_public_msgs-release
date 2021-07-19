@@ -1,0 +1,3 @@
+geometry_msgs/Transform transform
+float64 speed
+float64 acceleration

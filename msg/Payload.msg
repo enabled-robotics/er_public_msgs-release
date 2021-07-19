@@ -1,0 +1,2 @@
+float64 mass
+geometry_msgs/Vector3 center
