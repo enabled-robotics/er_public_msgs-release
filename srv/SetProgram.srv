@@ -1,0 +1,4 @@
+Program data
+---
+bool success
+string error_message
