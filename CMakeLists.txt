@@ -53,6 +53,7 @@ add_message_files(
   JointConfiguration.msg
   JointConfigurationCommand.msg
   Payload.msg
+  Program.msg
   Status.msg
   StringArray.msg
   StringPair.msg
@@ -71,6 +72,7 @@ add_service_files(
   SetJointConfiguration.srv
   SetPayload.srv
   SetPose2D.srv
+  SetProgram.srv
   SetString.srv
   SetTransform.srv
   Trigger.srv
