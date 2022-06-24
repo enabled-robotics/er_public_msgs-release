@@ -1,0 +1,24 @@
+ros-melodic-er-public-msgs (1.4.0-1bionic) bionic; urgency=high
+
+  * Added componentstatus msgs/srcs
+  * Contributors: Niels Hvid
+
+ -- niels <nah@enabled-robotics.com>  Thu, 23 Jun 2022 22:00:00 -0000
+
+ros-melodic-er-public-msgs (1.1.0-1bionic) bionic; urgency=high
+
+  * Added parameters to program
+  * Contributors: Niels Hvid
+  * Added parameters to program
+  * Contributors: Niels Hvid
+
+ -- niels <nah@enabled-robotics.com>  Sat, 18 Sep 2021 22:00:00 -0000
+
+ros-melodic-er-public-msgs (1.0.0-1bionic) bionic; urgency=high
+
+  * Added er_public_msgs
+  * Contributors: Niels Hvid
+
+ -- niels <nah@enabled-robotics.com>  Mon, 12 Jul 2021 22:00:00 -0000
+
+
